@@ -1,0 +1,862 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO Global AirBox 1.3.8\n"
+"Report-Msgid-Bugs-To: programacion@taovisual.com\n"
+"POT-Creation-Date: 2016-08-08 10:01+0100\n"
+"PO-Revision-Date: 2016-08-08 10:01+0200\n"
+"Last-Translator: Coder#1 - Desarrollo y Maquetación <programacion@taovisual.com>\n"
+"Language-Team: Coder#1 - Desarrollo y Maquetación <programacion@taovisual.com>\n"
+"Language: it\n"
+"MIME-Version: 1.4.5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../lib/models/string.model.php:14
+msgid "Ya has sido registrado, <strong>%s</strong>! Recuerdas tu usuario y contraseña?"
+msgstr "Ya has sido registrado, <strong>%s</strong>! Recuerdas tu usuario y contraseña?"
+
+
+#: ../lib/models/string.model.php:15
+msgid "Para proceder con la activaci&oacute;n de tu cuenta es necesario completar el primer pedido"
+msgstr "Para proceder con la activaci&oacute;n de tu cuenta es necesario completar el primer pedido"
+
+
+#: ../lib/models/string.model.php:16
+msgid "Tu pedido ha sido agregado!"
+msgstr "Tu pedido ha sido agregado!"
+
+
+#: ../lib/models/string.model.php:17
+msgid "Tu pedido ha sido activado!"
+msgstr "Tu pedido ha sido activado!"
+
+
+#: ../lib/models/string.model.php:18
+msgid "Se ha borrado un pedido"
+msgstr "Se ha borrado un pedido"
+
+
+#: ../lib/models/string.model.php:23
+msgid "Se han descontado %s AirPoints de tu cuenta. Puedes borrar el pedido reservado para recuperarlos."
+msgstr "Se han descontado %s AirPoints de tu cuenta. Puedes borrar el pedido reservado para recuperarlos."
+
+
+#: ../lib/models/string.model.php:24
+msgid "Has recuperado %s AirPoints invertidos"
+msgstr "Has recuperado %s AirPoints invertidos"
+
+
+#: ../lib/models/string.model.php:25
+msgid "El proyecto ha finalizado"
+msgstr "El proyecto ha finalizado"
+
+
+#: ../lib/models/string.model.php:26
+msgid "El proyecto ha completado el cupo de inversores y no es posible registrar nuevas participaciones."
+msgstr "El proyecto ha completado el cupo de inversores y no es posible registrar nuevas participaciones."
+
+
+#: ../lib/models/string.model.php:27
+msgid "Puede solicitar aquí el reintegro de sus AirPoints aceptando las siguientes condiciones:"
+msgstr "Puede solicitar aquí el reintegro de sus AirPoints aceptando las siguientes condiciones:"
+
+
+#: ../lib/models/string.model.php:28
+msgid "Indique su n&uacute;mero de cuenta bancaria para poder procesar el reintegro por transferencia."
+msgstr "Indique su n&uacute;mero de cuenta bancaria para poder procesar el reintegro por transferencia."
+
+
+#: ../lib/models/string.model.php:29
+msgid "Se ha notificado del reintegro a %s"
+msgstr "Se ha notificado del reintegro a %s"
+
+
+#: ../lib/models/string.model.php:30
+msgid "Necesitas contactar con el administrador?"
+msgstr "Necesitas contactar con el administrador?"
+
+
+#: ../lib/models/string.model.php:31
+msgid "Si eres inversor, por favor indica tu DNI en el formulario de contacto"
+msgstr "Si eres inversor, por favor indica tu DNI en el formulario de contacto"
+
+
+#: ../lib/models/string.model.php:32
+msgid "Hola %s, <br/>bienvenid@ a la intranet de Global Airbox!"
+msgstr "Hola %s, <br/>bienvenid@ a la intranet de Global Airbox!"
+
+
+#: ../lib/models/string.model.php:33
+msgid "Puedes ganar afiliados vendiendo BOXes desde tu formulario de afiliaci&oacute;n"
+msgstr "Puedes ganar afiliados vendiendo BOXes desde tu formulario de afiliaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:34
+msgid "Puedes comenzar a reservar tus boxes ahora mismo!"
+msgstr "Puedes comenzar a reservar tus boxes ahora mismo!"
+
+
+#: ../lib/models/string.model.php:35
+msgid "Reinvertir %s AirPoints"
+msgstr "Reinvertir %s AirPoints"
+
+
+#: ../lib/models/string.model.php:36
+msgid "Gana <strong>AirPoints</strong> captando inversores con tu formulario!!"
+msgstr "Gana <strong>AirPoints</strong> captando inversores con tu formulario!!"
+
+
+#: ../lib/models/string.model.php:37
+msgid "Puedes subir hasta el plan PRO re-invirtiendo en <strong>AirBox</strong>!"
+msgstr "Puedes subir hasta el plan PRO re-invirtiendo en <strong>AirBox</strong>!"
+
+
+#: ../lib/models/string.model.php:38
+msgid "Ya est&aacute;s registrado, no necesitas rellenar de nuevo este formulario. Env&iacute;a este enlace a tus contactos para captar inversores."
+msgstr "Ya est&aacute;s registrado, no necesitas rellenar de nuevo este formulario. Env&iacute;a este enlace a tus contactos para captar inversores."
+
+
+#: ../lib/models/string.model.php:39
+msgid "Debe aceptar los t&eacute;rminos del contrato de inversi&oacute;n (descargar PDF)"
+msgstr "Debe aceptar los t&eacute;rminos del contrato de inversi&oacute;n (descargar PDF)"
+
+
+#: ../lib/models/string.model.php:41
+msgid "Por favor, utilize otro nombre de usuario"
+msgstr "Por favor, utilize otro nombre de usuario"
+
+
+#: ../lib/models/string.model.php:42
+msgid "Por favor, utilice otra direcci&oacute;n de correo electr&oacute;nico"
+msgstr "Por favor, utilice otra direcci&oacute;n de correo electr&oacute;nico"
+
+
+#: ../lib/models/string.model.php:43
+msgid "Su DNI ya existe en nuestra base de datos. Dispone ya de un usuario en AirBox?"
+msgstr "Su DNI ya existe en nuestra base de datos. Dispone ya de un usuario en AirBox?"
+
+
+#: ../lib/models/string.model.php:44
+msgid "Atenci&oacute;n:<br/>El sistema solo permite procesar un pedido a la vez.<br/>Borre los pedidos innecesarios."
+msgstr "Atenci&oacute;n:<br/>El sistema solo permite procesar un pedido a la vez.<br/>Borre los pedidos innecesarios."
+
+
+#: ../lib/models/string.model.php:46
+msgid "El usuario %s no tiene acceso a esta intranet"
+msgstr "El usuario %s no tiene acceso a esta intranet"
+
+
+#: ../lib/models/string.model.php:47
+msgid "Su pedido no se puede completar por que ha superado el número de boxes disponibles."
+msgstr "Su pedido no se puede completar por que ha superado el número de boxes disponibles."
+
+
+#: ../lib/models/string.model.php:48
+msgid "Ha intentado reservar mas boxes de los dispobibles, se han asignado todos los boxes disponibles a su solicitud."
+msgstr "Ha intentado reservar mas boxes de los dispobibles, se han asignado todos los boxes disponibles a su solicitud."
+
+
+#: ../lib/models/string.model.php:49
+msgid "No se ha podido crear su usuario. Contacte con el administrador."
+msgstr "No se ha podido crear su usuario. Contacte con el administrador."
+
+
+#: ../lib/models/string.model.php:50
+msgid "Hay errores en el formulario"
+msgstr "Hay errores en el formulario"
+
+
+#: ../lib/models/string.model.php:51
+msgid "El nuevo usuario no pudo ser actualizado"
+msgstr "El nuevo usuario no pudo ser actualizado"
+
+
+#: ../lib/models/string.model.php:52
+msgid "No se ha podido crear el pedido. Contacte con el administrador"
+msgstr "No se ha podido crear el pedido. Contacte con el administrador"
+
+
+#: ../lib/models/string.model.php:53
+msgid "No se ha podido activar el pedido. Contacte con el administrador"
+msgstr "No se ha podido activar el pedido. Contacte con el administrador"
+
+
+#: ../lib/models/string.model.php:54
+msgid "Este pedido no puede ser borrado: %s"
+msgstr "Este pedido no puede ser borrado: %s"
+
+
+#: ../lib/models/string.model.php:56
+msgid "Se requiere un valor v&aacute;lido"
+msgstr "Se requiere un valor v&aacute;lido"
+
+
+#: ../lib/models/string.model.php:57
+msgid "El email no es v&aacute;lido"
+msgstr "El email no es v&aacute;lido"
+
+
+#: ../lib/models/string.model.php:58
+msgid "Cargador inv&aacute;lido"
+msgstr "Cargador inv&aacute;lido"
+
+
+#: ../lib/models/string.model.php:59
+msgid "El nombre de usuario es inv&aacute;lido"
+msgstr "El nombre de usuario es inv&aacute;lido"
+
+
+#: ../lib/models/string.model.php:60
+msgid "N&uacute;mero de pedido inv&aacute;lido"
+msgstr "N&uacute;mero de pedido inv&aacute;lido"
+
+
+#: ../lib/models/string.model.php:61
+msgid "M&eacute;todo de pago inv&aacute;lido"
+msgstr "M&eacute;todo de pago inv&aacute;lido"
+
+
+#: ../lib/models/string.model.php:62
+msgid "Inversor invalido"
+msgstr "Inversor invalido"
+
+
+#: ../lib/models/string.model.php:63
+msgid "Vista no encontrada"
+msgstr "Vista no encontrada"
+
+
+#: ../lib/models/string.model.php:66
+msgid "Formulario de afiliaci&oacute;n"
+msgstr "Formulario de afiliaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:67
+msgid "Acceso Inversores"
+msgstr "Acceso Inversores"
+
+
+#: ../lib/models/string.model.php:68
+msgid "Acceso no autorizado"
+msgstr "Acceso no autorizado"
+
+
+#: ../lib/models/string.model.php:69
+msgid "Vaya! el proyecto ya ha finalizado"
+msgstr "Vaya! el proyecto ya ha finalizado"
+
+
+#: ../lib/models/string.model.php:70
+msgid "Quieres hacernos alguna consulta?"
+msgstr "Quieres hacernos alguna consulta?"
+
+
+#: ../lib/models/string.model.php:71
+msgid "Novedades AirBox"
+msgstr "Novedades AirBox"
+
+
+#: ../lib/models/string.model.php:72
+msgid "Reintegro"
+msgstr "Reintegro"
+
+
+#: ../lib/models/string.model.php:73
+msgid "Completar compra"
+msgstr "Completar compra"
+
+
+#: ../lib/models/string.model.php:74
+msgid "Progreso de la financiaci&oacute;n"
+msgstr "Progreso de la financiaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:75
+msgid "Historial de pedidos y progreso de financiaci&oacute;n"
+msgstr "Historial de pedidos y progreso de financiaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:77
+msgid "Panel de Control"
+msgstr "Panel de Control"
+
+
+#: ../lib/models/string.model.php:78
+msgid "Mi historial"
+msgstr "Mi historial"
+
+
+#: ../lib/models/string.model.php:79
+msgid "Mi perfil"
+msgstr "Mi perfil"
+
+
+#: ../lib/models/string.model.php:80
+msgid "Calendario"
+msgstr "Calendario"
+
+
+#: ../lib/models/string.model.php:81
+msgid "Desconectar"
+msgstr "Desconectar"
+
+
+#: ../lib/models/string.model.php:82
+msgid "Contrato de Inversor (PDF)"
+msgstr "Contrato de Inversor (PDF)"
+
+
+#: ../lib/models/string.model.php:83
+msgid "Administraci&oacute;n"
+msgstr "Administraci&oacute;n"
+
+
+#: ../lib/models/string.model.php:85
+msgid "Puntos de Venta"
+msgstr "Puntos de Venta"
+
+
+#: ../lib/models/string.model.php:86
+msgid "Noticias"
+msgstr "Noticias"
+
+
+#: ../lib/models/string.model.php:87
+msgid "Simulaci&oacute;n"
+msgstr "Simulaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:88
+msgid "Liquidaci&oacute;n"
+msgstr "Liquidaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:89
+msgid "Programa de Afiliados"
+msgstr "Programa de Afiliados"
+
+
+#: ../lib/models/string.model.php:92
+msgid "Volver a inicio"
+msgstr "Volver a inicio"
+
+
+#: ../lib/models/string.model.php:93
+msgid "Volver"
+msgstr "Volver"
+
+
+#: ../lib/models/string.model.php:94
+msgid "Remitir solicitud"
+msgstr "Remitir solicitud"
+
+
+#: ../lib/models/string.model.php:95
+msgid "Comprar"
+msgstr "Comprar"
+
+
+#: ../lib/models/string.model.php:96
+msgid "Pagar"
+msgstr "Pagar"
+
+
+#: ../lib/models/string.model.php:97
+msgid "Leer m&aacute;s ..."
+msgstr "Leer m&aacute;s ..."
+
+
+#: ../lib/models/string.model.php:98
+msgid "Calcular"
+msgstr "Calcular"
+
+
+#: ../lib/models/string.model.php:99
+msgid "Solicitar Reintegro?"
+msgstr "Solicitar Reintegro?"
+
+
+#: ../lib/models/string.model.php:100
+msgid "Acceder a mi panel de control"
+msgstr "Acceder a mi panel de control"
+
+
+#: ../lib/models/string.model.php:101
+msgid "Acceder a la administraci&oacute;n"
+msgstr "Acceder a la administraci&oacute;n"
+
+
+#: ../lib/models/string.model.php:104
+msgid "Inversor"
+msgstr "Inversor"
+
+
+#: ../lib/models/string.model.php:105
+msgid "Nombre de Usuario"
+msgstr "Nombre de Usuario"
+
+
+#: ../lib/models/string.model.php:106
+msgid "Password"
+msgstr "Password"
+
+
+#: ../lib/models/string.model.php:107
+msgid "Nombre"
+msgstr "Nombre"
+
+
+#: ../lib/models/string.model.php:108
+msgid "Apellido"
+msgstr "Apellido"
+
+
+#: ../lib/models/string.model.php:109
+msgid "DNI"
+msgstr "DNI"
+
+
+#: ../lib/models/string.model.php:110
+msgid "Email"
+msgstr "Email"
+
+
+#: ../lib/models/string.model.php:111
+msgid "Tel&eacute;fono"
+msgstr "Tel&eacute;fono"
+
+
+#: ../lib/models/string.model.php:112
+msgid "Fecha de alta"
+msgstr "Fecha de alta"
+
+
+#: ../lib/models/string.model.php:113
+msgid "Fecha de pedido"
+msgstr "Fecha de pedido"
+
+
+#: ../lib/models/string.model.php:114
+msgid "&Uacute;ltima modificaci&oacute;n"
+msgstr "&Uacute;ltima modificaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:115
+msgid "Estado"
+msgstr "Estado"
+
+
+#: ../lib/models/string.model.php:116
+msgid "Plan"
+msgstr "Plan"
+
+
+#: ../lib/models/string.model.php:117
+msgid "C&oacute;digo de activaci&oacute;n"
+msgstr "C&oacute;digo de activaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:118
+msgid "Inversor superior"
+msgstr "Inversor superior"
+
+
+#: ../lib/models/string.model.php:120
+msgid "Cuenta validada"
+msgstr "Cuenta validada"
+
+
+#: ../lib/models/string.model.php:121
+msgid "Cuenta cerrada"
+msgstr "Cuenta cerrada"
+
+
+#: ../lib/models/string.model.php:122
+msgid "Pendiente de activaci&oacute;n"
+msgstr "Pendiente de activaci&oacute;n"
+
+
+#: ../lib/models/string.model.php:123
+msgid "Solicitando cierre"
+msgstr "Solicitando cierre"
+
+
+#: ../lib/models/string.model.php:125
+msgid "Nuevo"
+msgstr "Nuevo"
+
+
+#: ../lib/models/string.model.php:126
+msgid "Inversores atraidos"
+msgstr "Inversores atraidos"
+
+
+#: ../lib/models/string.model.php:127
+msgid "BOXES vendidos"
+msgstr "BOXES vendidos"
+
+
+#: ../lib/models/string.model.php:128
+msgid "Tienes %s AirPoints"
+msgstr "Tienes %s AirPoints"
+
+
+#: ../lib/models/string.model.php:129
+msgid "Tus AirPoints tienen un valor de %s"
+msgstr "Tus AirPoints tienen un valor de %s"
+
+
+#: ../lib/models/string.model.php:131
+msgid "Plan BASIC"
+msgstr "Plan BASIC"
+
+
+#: ../lib/models/string.model.php:132
+msgid "De 1 a 2 BOXES"
+msgstr "De 1 a 2 BOXES"
+
+
+#: ../lib/models/string.model.php:133
+msgid "Plan PLUS"
+msgstr "Plan PLUS"
+
+
+#: ../lib/models/string.model.php:134
+msgid "De 3 a 9 BOXES"
+msgstr "De 3 a 9 BOXES"
+
+
+#: ../lib/models/string.model.php:135
+msgid "Plan PRO"
+msgstr "Plan PRO"
+
+
+#: ../lib/models/string.model.php:136
+msgid "Desde 10+ BOXES"
+msgstr "Desde 10+ BOXES"
+
+
+#: ../lib/models/string.model.php:139
+msgid "Tus Afiliados"
+msgstr "Tus Afiliados"
+
+
+#: ../lib/models/string.model.php:140
+msgid "Beneficio"
+msgstr "Beneficio"
+
+
+#: ../lib/models/string.model.php:141
+msgid "Vaya, aqu&iacute; no hay nadie!"
+msgstr "Vaya, aqu&iacute; no hay nadie!"
+
+
+#: ../lib/models/string.model.php:143
+msgid "Indefinido"
+msgstr "Indefinido"
+
+
+#: ../lib/models/string.model.php:144
+msgid "Vac&iacute;o"
+msgstr "Vac&iacute;o"
+
+
+#: ../lib/models/string.model.php:145
+msgid "Repetir"
+msgstr "Repetir"
+
+
+#: ../lib/models/string.model.php:146
+msgid "Vaciar"
+msgstr "Vaciar"
+
+
+#: ../lib/models/string.model.php:147
+msgid "Seleccionar"
+msgstr "Seleccionar"
+
+
+#: ../lib/models/string.model.php:148
+msgid "Si"
+msgstr "Si"
+
+
+#: ../lib/models/string.model.php:149
+msgid "No"
+msgstr "No"
+
+
+#: ../lib/models/string.model.php:150
+msgid "Total"
+msgstr "Total"
+
+
+#: ../lib/models/string.model.php:151
+msgid "Fecha"
+msgstr "Fecha"
+
+
+#: ../lib/models/string.model.php:152
+msgid "Registrado"
+msgstr "Registrado"
+
+
+#: ../lib/models/string.model.php:153
+msgid "Comprado"
+msgstr "Comprado"
+
+
+#: ../lib/models/string.model.php:154
+msgid "Cantidad"
+msgstr "Cantidad"
+
+
+#: ../lib/models/string.model.php:155
+msgid "Valor"
+msgstr "Valor"
+
+
+#: ../lib/models/string.model.php:156
+msgid "Unidades"
+msgstr "Unidades"
+
+
+#: ../lib/models/string.model.php:157
+msgid "Boxes"
+msgstr "Boxes"
+
+
+#: ../lib/models/string.model.php:158
+msgid "Horas"
+msgstr "Horas"
+
+
+#: ../lib/models/string.model.php:159
+msgid "Precio"
+msgstr "Precio"
+
+
+#: ../lib/models/string.model.php:160
+msgid "Ciclo"
+msgstr "Ciclo"
+
+
+#: ../lib/models/string.model.php:161
+msgid "Tipo"
+msgstr "Tipo"
+
+
+#: ../lib/models/string.model.php:162
+msgid "Detalle"
+msgstr "Detalle"
+
+
+#: ../lib/models/string.model.php:163
+msgid "Mensaje"
+msgstr "Mensaje"
+
+
+#: ../lib/models/string.model.php:164
+msgid "Publicado el %s"
+msgstr "Publicado el %s"
+
+
+#: ../lib/models/string.model.php:166
+msgid "AirPoints"
+msgstr "AirPoints"
+
+
+#: ../lib/models/string.model.php:167
+msgid "Tus Boxes"
+msgstr "Tus Boxes"
+
+
+#: ../lib/models/string.model.php:168
+msgid "Invertido"
+msgstr "Invertido"
+
+
+#: ../lib/models/string.model.php:169
+msgid "Tus AirPoints"
+msgstr "Tus AirPoints"
+
+
+#: ../lib/models/string.model.php:171
+msgid "Cantidad"
+msgstr "Cantidad"
+
+
+#: ../lib/models/string.model.php:172
+msgid "Precio"
+msgstr "Precio"
+
+
+#: ../lib/models/string.model.php:173
+msgid "Reinvertir mis <strong>%s</strong> <i>AirPoints</i>?"
+msgstr "Reinvertir mis <strong>%s</strong> <i>AirPoints</i>?"
+
+
+#: ../lib/models/string.model.php:174
+msgid "M&eacute;todo de pago"
+msgstr "M&eacute;todo de pago"
+
+
+#: ../lib/models/string.model.php:175
+msgid "Borrar"
+msgstr "Borrar"
+
+
+#: ../lib/models/string.model.php:176
+msgid "Revisar"
+msgstr "Revisar"
+
+
+#: ../lib/models/string.model.php:177
+msgid "Num. pedido"
+msgstr "Num. pedido"
+
+
+#: ../lib/models/string.model.php:178
+msgid "Procesando pago"
+msgstr "Procesando pago"
+
+
+#: ../lib/models/string.model.php:179
+msgid "Aplicada reinversi&oacute;n completa de AirPoints"
+msgstr "Aplicada reinversi&oacute;n completa de AirPoints"
+
+
+#: ../lib/models/string.model.php:180
+msgid "Seleccione un m&eacute;todo de pago"
+msgstr "Seleccione un m&eacute;todo de pago"
+
+
+#: ../lib/models/string.model.php:182
+msgid "Global"
+msgstr "Global"
+
+
+#: ../lib/models/string.model.php:183
+msgid "Ciclo actual"
+msgstr "Ciclo actual"
+
+
+#: ../lib/models/string.model.php:184
+msgid "Ciclo actual completado"
+msgstr "Ciclo actual completado"
+
+
+#: ../lib/models/string.model.php:185
+msgid "Todav&iacute;a quedan unidades disponibles para el ciclo actual!"
+msgstr "Todav&iacute;a quedan unidades disponibles para el ciclo actual!"
+
+
+#: ../lib/models/string.model.php:187
+msgid "%s BOXES por %s €"
+msgstr "%s BOXES por %s €"
+
+
+#: ../lib/models/string.model.php:188
+msgid "Aplicado descuento por reinversi&oacute;n"
+msgstr "Aplicado descuento por reinversi&oacute;n"
+
+
+#: ../lib/models/string.model.php:189
+msgid "Detalles del pedido Nº %s"
+msgstr "Detalles del pedido Nº %s"
+
+
+#: ../lib/models/string.model.php:191
+msgid "Formulario AirBox"
+msgstr "Formulario AirBox"
+
+
+#: ../lib/models/string.model.php:192
+msgid "Widget de vista de formulario para acceder a la intranet de AirBox"
+msgstr "Widget de vista de formulario para acceder a la intranet de AirBox"
+
+
+#: ../lib/models/string.model.php:198
+msgid "Mailer"
+msgstr "Mailer"
+
+
+#: ../lib/models/string.model.php:202
+msgid "Tu cuenta de inversor ha sido activada!"
+msgstr "Tu cuenta de inversor ha sido activada!"
+
+
+#: ../lib/models/string.model.php:208
+msgid "Tu pedido %s ha sido activado"
+msgstr "Tu pedido %s ha sido activado"
+
+
+#: ../lib/models/string.model.php:216
+msgid "Solicitud de reintegro de %s"
+msgstr "Solicitud de reintegro de %s"
+
+
+#: ../lib/models/string.model.php:220
+msgid "Su solicitud de reintegro ha sido enviada"
+msgstr "Su solicitud de reintegro ha sido enviada"
+
+
+#: ../lib/models/string.model.php:226
+msgid "Se ha aplicado un reintegro de %s AirPoints"
+msgstr "Se ha aplicado un reintegro de %s AirPoints"
+
+
+#: ../lib/models/string.model.php:231
+msgid "Bienvenid@ a Global AirBox"
+msgstr "Bienvenid@ a Global AirBox"
+
+
+#: ../lib/models/string.model.php:239
+msgid "Nuevo inversor  registrado: %s"
+msgstr "Nuevo inversor  registrado: %s"
+
+
+#: ../lib/models/string.model.php:244
+msgid "Has vendido %s BOXES!"
+msgstr "Has vendido %s BOXES!"
+
+
+#: ../lib/models/string.model.php:248
+msgid "Hola %s, tu cuenta de inversor ya ha sido activada."
+msgstr "Hola %s, tu cuenta de inversor ya ha sido activada."
+
+
+#: ../lib/models/string.model.php:258
+msgid "<p>Nuevo mensaje de <a href="%s" target="_blank">%s</a>:</p><p><i>%s</i></p>"
+msgstr "<p>Nuevo mensaje de <a href="%s" target="_blank">%s</a>:</p><p><i>%s</i></p>"
+
+
+#: ../lib/models/string.model.php:266
+msgid "Hemos remitido tu solicitud al administrador de la intranet:<br/><br/><i>%s</i><br/><br/>Esperamos dar respuesta a tu petici&oacute;n en breve."
+msgstr "Hemos remitido tu solicitud al administrador de la intranet:<br/><br/><i>%s</i><br/><br/>Esperamos dar respuesta a tu petici&oacute;n en breve."
+
+
+#: ../lib/models/string.model.php:272
+msgid "<p>Hola %s!,</p><p>acabamos de aplicar el reintegro de <strong>%s AirPoints</strong> sobre tu cuenta de inversor!</p>"
+msgstr "<p>Hola %s!,</p><p>acabamos de aplicar el reintegro de <strong>%s AirPoints</strong> sobre tu cuenta de inversor!</p>"
+
+
+#: ../lib/models/string.model.php:277
+msgid "Hola %s,<br/>uno de tus afiliados ha comprado %s BOXES.<br/>Has recibido %s AirPoints como recompensa!"
+msgstr "Hola %s,<br/>uno de tus afiliados ha comprado %s BOXES.<br/>Has recibido %s AirPoints como recompensa!"
+
+
+#: ../lib/models/string.model.php:293
+msgid "<h2>Hola %s,</h2><p><strong>Se bienvenid@ a nuestra red de inversores en %s!</strong></p><p>Tu usuario: <b>%s</b></p><p>Tu password: <b>%s</b></p>"
+msgstr "<h2>Hola %s,</h2><p><strong>Se bienvenid@ a nuestra red de inversores en %s!</strong></p><p>Tu usuario: <b>%s</b></p><p>Tu password: <b>%s</b></p>"
+
+
+#: ../lib/models/string.model.php:299
+msgid "Se acaba de registrar un nuevo inversor en el sistema"
+msgstr "Se acaba de registrar un nuevo inversor en el sistema"
+
+
+#: ../lib/models/string.model.php:305
+msgid "<p>Hola %s,</p><p>Tu pedido Nº %s ya ha sido activado.</p><p><a href="%s" target="_blank">Quires verlo ahora?</a></p>"
+msgstr "<p>Hola %s,</p><p>Tu pedido Nº %s ya ha sido activado.</p><p><a href="%s" target="_blank">Quires verlo ahora?</a></p>"
+

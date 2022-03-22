@@ -1,0 +1,346 @@
+.airbox-intranet-container{
+    margin: 20px auto;
+    /*padding: 20px;*/
+    box-sizing: content-box;
+    
+    clear: both;
+}
+.airbox-intranet-container:after,
+.airbox-intranet-container > .airbox-content:after{
+    content: '';
+    display: block;
+    height: 0;
+    clear: both;
+}
+.airbox-intranet-container > h1,
+.airbox-intranet-container > h2,
+.airbox-intranet-container .tab-content{
+    padding: 20px;
+}
+.airbox-intranet-container .profit-current{ color: #ac0404; }
+.airbox-intranet-container .profit-goal{ color: #5E99BD; }
+.airbox-intranet-container .ab-content{
+    margin-bottom: 20px;
+}
+.airbox-intranet-container a.command{ display: block; }
+.airbox-intranet-container ul{
+    list-style-type: none;
+    padding: 0;
+}
+.airbox-intranet-container ul > li{
+    padding: 10px 0;
+    box-sizing: border-box;
+}
+.airbox-intranet-container .dictionary-content{
+    padding: 20px;
+    box-sizing: border-box;
+}
+.airbox-intranet-container.airbox-guest,
+.airbox-intranet-container.airbox-investor{
+    width: 90%;
+    border-radius: 3px;
+    box-shadow: 0 1px 4px #8a8a8a;
+    color: #505050;
+}
+.airbox-intranet-container.airbox-manager{ }
+.airbox-intranet-container .tab-content{
+    vertical-align: top;
+    /*padding: 20px;*/
+    /*box-sizing: border-box;*/
+    display: block;
+}
+.airbox-intranet-container .tab-content.half-width{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+.airbox-intranet-container .tab-content.full-width{
+    width: 100%;
+    display: block;
+    clear: both;
+}
+.airbox-intranet-container ul.tab-content{
+    box-sizing: border-box;
+    padding: 20px;
+}
+.airbox-intranet-container ul.tab-content > li{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.airbox-intranet-container ul.tab-content li > a,
+.airbox-intranet-container ul.tab-content li > strong{
+    float: right;
+}
+.airbox-intranet-container .content{
+    
+}
+.airbox-intranet-container .content .right{ float: right; }
+.airbox-intranet-container .content .plan-title > h4{
+    text-transform: uppercase;
+    vertical-align: top;
+    font-size: 20px;
+    display: inline-block;
+}
+ul.airbox-checkout{
+    list-style-type: none;
+    box-sizing: border-box;
+    padding: 40px;
+    /*border: 1px solid #eaeaea;*/
+    /*background-color: #f5f5f5;*/
+}
+ul.airbox-checkout > li{
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    
+    border: 1px solid #eaeaea;
+    border-radius: 3px;
+    cursor: default;
+}
+ul.airbox-checkout > li > input[type="text"]:disabled{
+    background-color: #fafafa !important;
+    box-shadow: none !important;
+    cursor: text !important;
+}
+table.airbox-product-bundle{
+    margin-top: 40px;
+    padding: 20px;
+}
+table.airbox-product-bundle .amount{
+    margin: 0 0 0 10px;
+    font-weight: bolder;
+}
+table.airbox-product-bundle input[type="number"]{
+    width: 80px;
+    background-color: #fafafa;
+}
+table.airbox-product-bundle td,
+table.airbox-product-bundle th{
+    cursor: default;
+}
+table.airbox-product-bundle td:last-child:not(:first-child),
+table.airbox-product-bundle th:last-child:not(:first-child){
+    padding-right: 10px;
+}
+
+table.tab-content thead, table.tab-content tbody, table.tab-content tfoot{
+    width: 100%;
+}
+
+.airbox-intranet-container .tab-content.status > .title{
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.airbox-intranet-container .investor-plan-1{
+    background-image: url('airbox-plan-basic.png');
+}
+.airbox-intranet-container .investor-plan-2{
+    background-image: url('airbox-plan-plus.png');
+}
+.airbox-intranet-container .investor-plan-3{
+    background-image: url('airbox-plan-pro.png');
+}
+.airbox-intranet-container .icon-investors{
+    background-image: url('icon-investors.png');
+    background-repeat: no-repeat;
+    background-position: top left;
+    /*background-size: contain;*/
+}
+
+/*SECCION ADMINISTRADOR*/
+
+.airbox-intranet-container table{
+    width: 100%;
+}
+.airbox-intranet-container table th,
+.airbox-intranet-container table td{
+    height: 40px !important;
+    text-align: left;
+}
+.airbox-intranet-container table th:last-child:not(:first-child),
+.airbox-intranet-container table td:last-child:not(:first-child){
+    text-align: right;
+}
+.airbox-intranet-container table tr:not(:last-child) th{
+    border-bottom: 1px solid #d5d5d5;
+}
+.airbox-shortcode,.airbox-widget{
+    margin-bottom: 20px !important;
+}
+/*shortcodes y widgets y elementos portables*/
+.progress-bar-container, .progress-bar-container > .progress-bar{
+    display: block;
+    border-radius: 10px !important;
+    box-sizing: border-box !important;
+    padding: 0;
+    height: 20px;
+    text-align: center !important;
+}
+.progress-bar-container{
+    width: 100%;
+    position: relative;
+    background-color: #dadada !important;
+}
+.progress-bar-container > .progress-bar{
+    min-width: 40px;
+    background-image: -webkit-linear-gradient( #5d98e0 , #557AA7) !important;
+    background-image: -moz-linear-gradient( #5d98e0 , #557AA7) !important;
+    background-image: -o-linear-gradient( #5d98e0 , #557AA7) !important;
+    background-image: linear-gradient( #5d98e0 , #557AA7) !important;
+    border-bottom: 1px solid #35557B !important;
+    color: #ffffff !important;
+    text-shadow: 0 -1px 0 #505050 !important;
+    font-weight: lighter !important;
+}
+.progress-bar-container > .label{
+    position: absolute;
+    left: 0; right: 0; top: 0;
+    text-align: center;
+    font-size: 14px !important;
+}
+.progress-bar-container > .label.light{
+    color: #ffffff;
+    text-shadow: 0 -1px 0 #909090;
+}
+.progress-bar-container > .label.percent:after{
+    content: '%';
+    margin-left: 4px;
+}
+.progress-bar-container > .label > .units:after{
+    content: '/';
+    margin: 0 4px;
+}
+ul.airbox-investor-fields{
+    padding: 10px;
+    box-sizing: border-box;
+}
+ul.airbox-investor-fields > li{
+    padding: 10px;
+    box-sizing: border-box;
+}
+ul.airbox-investor-fields li.half-width{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+ul.airbox-investor-fields li.full-width{
+    width: 100%;
+    display: block;
+    clear: both;
+}
+ul.airbox-investor-fields li.form-input input[type="number"],
+ul.airbox-investor-fields li.form-input input[type="text"],
+ul.airbox-investor-fields li.form-input input[type="tel"],
+ul.airbox-investor-fields li.form-input input[type="email"]{
+    padding: 10px;
+}
+ul.airbox-investor-fields li.form-input label,
+ul.airbox-investor-fields li.form-input input[type="number"]{
+    vertical-align: top;
+    display: inline-block;
+}
+ul.airbox-investor-fields li.form-input .boxes{
+    width: 60%;
+}
+ul.airbox-investor-fields li.form-input input[type="number"]{
+   width: auto;
+   float: right;
+ }
+ ul.airbox-investor-fields li.form-submit button[type="submit"]{ float: right; }
+ 
+ ul.airbox-investor-fields li.form-input .boxes:before{
+     content: url('airbox-icon-1.png');
+     display: inline-block;
+     float: left;
+     margin-right: 20px;
+ }
+ .affiliate-icon{
+     position: relative;
+     height: 32px;
+     padding-left: 48px;
+     display: inline-block;
+     
+     background-position: left;
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-image: url('airbox-affiliate.png');
+ }
+
+ .salepoints > iframe{
+     width: 100%;
+     height: 100%;
+     min-height: 400px;
+ }
+ .radial-progress-container {
+    background-color: #fbfbfb;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+}
+.radial-progress-container > .inset {
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 5px;
+    top: 0; left: 0;
+    background-color: #fbfbfb;
+    border-radius: 50%;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+.radial-progress-container .inset .label{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    text-align: center;
+    /*line-height: 1;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+.radial-progress-container .inset .label.progress.units{
+    top: 32px;
+    font-weight: 200;
+    font-size: 38px;
+}
+.radial-progress-container .inset .label.progress.units:after{
+    content: '/';
+    color: #000099;
+    margin: 0 4px;
+}
+.radial-progress-container .inset .label.progress.total{
+    font-size: 24px;
+    color: #0000CC;
+}
+.radial-progress-container .inset .label.percent,
+.radial-progress-container .inset .label.units{
+    top: 32px;
+    font-weight: 200;
+    font-size: 44px;
+    /*color: #000055;*/
+}
+
+.radial-progress-container > .base .full,
+.radial-progress-container > .base .half,
+.radial-progress-container > .base .mask {
+    background-color: #555555;
+    border-radius: 50%;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 0; left: 0;
+}
+.radial-progress-container > .base .full,
+.radial-progress-container > .base .half{
+    clip: rect(0px, 60px, 120px, 0px);
+}
+.radial-progress-container > .base .full{ display: none; }
+.radial-progress-container > .base .mask{
+    background-color: #fbfbfb;
+    clip: rect( 0px, 60px, 120px, 0px );
+    top: 0px; left: 0px;
+}
+.radial-progress-container > .base .display{ display: block; }
+
